@@ -165,7 +165,7 @@
 }
 .side-bar{
     height: 100vh;
-    width: 13%;
+    width: 181px;
     position: fixed;
     top: 0;
     /* overflow-y: scroll; */
@@ -484,7 +484,7 @@ hr{
         font-size:12px
     }
      .side-box i{
-        font-size:17px
+        font-size:25px
     }
     
     
