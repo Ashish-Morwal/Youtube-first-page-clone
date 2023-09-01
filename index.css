@@ -628,6 +628,7 @@ hr{
         font-size:12px;
         position:relative;
         top:2px;
+        color:#625e5e;
     }
     .side-box{
         text-align:center;
@@ -643,7 +644,7 @@ hr{
 }
     .side-box i{
         font-size:1.5rem;
-        color:#434242;
+       color:#625e5e;
     }
     
   .nav-search{
@@ -737,6 +738,7 @@ hr{
         font-size:12px;
         position:relative;
         top:5px;
+       color:#625e5e;
     }
     .side-box{
         text-align:center;
@@ -751,7 +753,7 @@ hr{
 }
     .side-box i{
         font-size:1.5rem;
-        color:#434242;
+        color:#625e5e;
     }
     
   .nav-search{
