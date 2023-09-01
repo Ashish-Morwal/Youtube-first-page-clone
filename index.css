@@ -508,7 +508,7 @@ hr{
     .new-side-bar{
         position: fixed;
         display:flex;
-        bottom: -8%;
+        bottom: -10%;
         flex-direction:column;
         justify-content: flex-start;
         align-items: center;
