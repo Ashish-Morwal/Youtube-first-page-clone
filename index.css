@@ -455,7 +455,8 @@ hr{
     width:100%;
    }
    .bar{
-       display:none;
+      position:relative;
+       top:4px;
    }
    .time{
     position: relative;
